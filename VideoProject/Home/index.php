@@ -7,9 +7,7 @@ include '../userdata.php';
 
    <head> 
       <title>Main</title>
-	  <meta name="keywords" content="porn,pornoopo,pornhub,brazzers,brazzerz,vixen,vexin,vexen,deeper,tuchi,blacked,sex
-	  puretaboo,xHamster,youporn,reality kings,adultTime,adult time,mofos,family stroker, family pies,sislovesme,sisloveme,spizo,pornpros,twistys,naughtyamerica,naughty america,
-	  private,best porn,porno,bangbros" />
+	  
 	  <meta charset="utf-8">
 	  <meta name="viewport" content ="width= device-width, initial-scale=1">
       <link rel="stylesheet" type="text/css" href="../All_files/all.css">
