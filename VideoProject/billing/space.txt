@@ -1,0 +1,33 @@
+<div class="billing-content hide" id="btc-pl">
+			<div id="wlt-out">
+			<div class="billing-info">
+			<p id="warning">You still don't have a wallet</p>
+			</div>
+			<form action="index.php?action=btc" method="GET" name="get-wlt">			
+			<div class="billing-info">
+			<button type="submit" class="btn1">Get New wallet</button>
+			</form>
+			</div>
+			</div>
+			<div id="wlt-in">
+			<div class="billing-info">
+			<p id="warning"> **Credit Not adding to your account automatically
+			please after send money click on <b>"Verify"</b> to add credit to your account**</p>
+			</div>
+			<div class="billing-info">
+			<img src="../profile.jpg" id="wallet-img">
+			</img>
+			</div>
+			<div class="billing-info">
+			<input type="text" value="bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh" readonly/>
+			<button type="button" class="btn1" id="copy-btn">copy</button>
+			</div>
+			
+			<div class="billing-info">
+			<p>Amount : 0.999999</p>
+			</div>
+			<div class="billing-info">
+			<button  type="button" class="btn1" id="verify-btn">Verify</button>
+			</div>
+			</div>
+			</div>
