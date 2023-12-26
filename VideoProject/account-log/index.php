@@ -12,8 +12,6 @@
 	  <link href='https://cdn.jsdelivr.net/npm/css.gg/icons/all.css' rel='stylesheet'>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 	  <script type="text/javascript" charset="utf-8" async="" src="../All_files/1.js"></script>
-	  
-	  
    </head>
    <body>
      <div class="body">
